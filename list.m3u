@@ -4,3 +4,7 @@ http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrt
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="香港",鳳凰衛視中文台
 http://iptv.4666888.xyz/iptv2A.php?id=鳳凰中文
+#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="香港",鳳凰衛視資訊台
+https://mgzb-al-pull.migucloud.com/live/fhzx-Zc2VWLzkcRFFwnhfIzuZS0SiPCmh54BHL5RDDoFfF3UmlDOmUxlQfaIZb64dxV8imn7Q1YWZBotZBQ2ZebIhw9Ma.flv
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="香港",鳳凰衛視中文台
+https://mgzb-al-pull.migucloud.com/live/fhzw-HCxXvhr8Pe1hMsFTf9B7FKCqpi9bwDgNB1udIYFUgYC7wjemN835CF7tUZ6g2FFBUI2jNcX67yy1yarGGRWRXhsl.flv
