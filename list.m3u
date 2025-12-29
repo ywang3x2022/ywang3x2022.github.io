@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="中天新闻2" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻2
-http://hls-pull-wicketpw.speedws.com/live/2235-ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+http://hls-pull-wicketpw.speedws.com/live/1059-ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 #EXTINF:-1 tvg-id="中天新闻3" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻3
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾",寰宇新闻
-http://live-pull.school.chsi.com.cn/live/2235-hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowkks0090.flv
+http://live-pull.school.chsi.com.cn/live/1059-hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowkks0090.flv
 #EXTINF:-1 tvg-id="寰宇新闻2" tvg-name="寰宇新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾",寰宇新闻2
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="香港",鳳凰衛視資訊台
