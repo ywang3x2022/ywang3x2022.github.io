@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="中天新闻2" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻2
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=sCmjZg&tk=H1zXe53SkNzw
+http://hls-pull-wicketpw.speedws.com/live/2235-ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 #EXTINF:-1 tvg-id="中天新闻3" tvg-name="中天新闻" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新闻3
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾",寰宇新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1766661049&ei=WcdMafizE4eJ1d8PpJPmwA0&ip=103.62.49.130&id=6IquAgfvYmc.4&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&hfr=1&maxh=4320&playlist_duration=30&manifest_duration=30&maudio=1&siu=1&bui=AYUSA3Dbq4v7iZQadutxAqBl9T32-noAMs-d9FG7xNxSa6qjVRI8ReX95WDpSAlmw30rT30cYg&spc=wH4Qq28v8Obqf63UDBYC1vEdtSlmgl_gTMDHuamKlyxMFGu4xSDI4UnIyw&vprv=1&go=1&ns=R_-Cuj0TpXoKTz3CIl6c11gR&rqh=5&pacing=0&nvgoi=1&ncsapi=1&keepalive=yes&fexp=51331020%2C51552689%2C51565116%2C51565681%2C51580968&dover=11&n=VA-MjMMPnOxa3Q&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type&sig=AJfQdSswRgIhAL2I4CFj8oGaxmVh3n32pvHXq97zeLy0ohz-Os9v0g-eAiEAjxxePAMg7HzJCpz5GvhF09kT2zIUMSH4SorD0z3fSts%3D&cpn=lbgTAJjhZ7Ate17D&ibw=33660000&c=MWEB&cver=2.20251222.01.00&ptk=youtube_single&oid=9BqkSXQzn-DvCnA2lS07Rw&ptchn=p2f7tGJGN6R9Muxipem8Nw&pltype=contentlive
+http://live-pull.school.chsi.com.cn/live/2235-hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowkks0090.flv
 #EXTINF:-1 tvg-id="寰宇新闻2" tvg-name="寰宇新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾",寰宇新闻2
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="香港",鳳凰衛視資訊台
